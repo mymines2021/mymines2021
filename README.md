@@ -2,7 +2,10 @@
 " target="_blank">Aleksandr Alekseev</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">I am a beginner QA engineer</h3>
-<h1 align="center"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /><a href="https://t.me/alexandralex2022"</a></h1>
+<a href="https://t.me/alexandralex2022"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+
+
+
 <!---
 mymines2021/mymines2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
