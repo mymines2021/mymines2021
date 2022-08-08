@@ -15,6 +15,10 @@
 *   Jmeter - simple load testing
 *   I know how to work in Jira, write checklists, test cases, bug reports
 
+ ## 🏢 My workspace
+*  🖥 Win 11 Pro Insider Preview, AMD Ryzen 9 5900X, 32 Gb RAM, MSI NVIDIA GeForce RTX 3060
+*  💻 DELL Win 10 Pro, Intel Core i5-8300H, 32 Gb RAM, NVIDIA Geforce GTX 1050
+
 
 <!---
 mymines2021/mymines2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
