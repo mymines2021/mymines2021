@@ -11,9 +11,9 @@
 *   Dev Tools - basic level
 *   SQL - at the level of simple queries (JOIN, LEFT, RIGHT, FULL)
 *   SOUP UI - requests via WSDL
-*   Postman - simple requests, snippets.
+*   Postman - simple requests, snippets
 *   Jmeter - simple load testing
-*   I know how to work in Jira, write checklists, test cases, bug reports.
+*   I know how to work in Jira, write checklists, test cases, bug reports
 
 
 <!---
