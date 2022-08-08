@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @mymines2021
+- 👋 Hi, I’m Aleksandr Alekseev
 - 👀 I’m interested in QA
 - 🌱 I’m currently learning QA
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 My CV https://myresume.ru/resume/4S9SZxfJArU/
+https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+
 
 <!---
 mymines2021/mymines2021 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
